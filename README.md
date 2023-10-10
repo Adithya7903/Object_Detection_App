@@ -27,4 +27,10 @@ This Python application performs real-time object detection using the YOLO (You 
 ## Installation
 1. Install required dependencies:
    ```bash
+
    pip install opencv-python pillow pandas ultralytics cvzone pushbullet.py
+
+
+## Clone the repository:
+
+git clone https://github.com/yourusername/Object_Detection_App.git
