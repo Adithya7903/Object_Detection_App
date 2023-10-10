@@ -34,3 +34,9 @@ This Python application performs real-time object detection using the YOLO (You 
 ## Clone the repository:
 
 git clone https://github.com/yourusername/Object_Detection_App.git
+
+
+## Run the application:
+
+python object_detection_app.py
+
