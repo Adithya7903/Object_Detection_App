@@ -1,2 +1,30 @@
-# Object_Detection_App
-This is a simple Python application for object detection using the YOLO (You Only Look Once) model. The application allows you to detect and log objects from a webcam feed or a video file. Additionally, you can create a restricted area for object detection.
+# Object Detection Application
+
+## Overview
+This Python application performs real-time object detection using the YOLO (You Only Look Once) model. The application features a user-friendly interface with webcam integration, video playback, and the ability to define restricted areas for detection.
+
+## Technologies Used
+- Tkinter
+- OpenCV
+- Pillow (PIL)
+- cvzone
+- Pandas
+- Ultralytics YOLO
+- Pushbullet
+- CSV
+- Datetime
+- Threading
+
+## Features
+- Start/stop webcam feed
+- Select and play video files
+- Pause/resume video playback
+- Create and save restricted areas for detection
+- Real-time object detection with customizable classes
+- Log detections to a CSV file
+- Push notifications for detected objects
+
+## Installation
+1. Install required dependencies:
+   ```bash
+   pip install opencv-python pillow pandas ultralytics cvzone pushbullet.py
