@@ -1,4 +1,4 @@
-# Object Detection Application
+# Object Detection Application in a created Restricted Area
 
 ## Overview
 This Python application performs real-time object detection using the YOLO (You Only Look Once) model. The application features a user-friendly interface with webcam integration, video playback, and the ability to define restricted areas for detection.
