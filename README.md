@@ -38,5 +38,6 @@ git clone https://github.com/Adithya7903/Object_Detection_App.git
 
 ## Run the application:
 
+ ```bash
 python object_detection_app.py
 
